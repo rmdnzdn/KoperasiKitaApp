@@ -1,3 +1,4 @@
+# SUDAH TIDAK MAINTENANCE
 # Aplikasi Koperasi Simpan Pinjam
 Sebuah aplikasi web untuk mengelola simpanan atau pinjaman.
 
@@ -9,12 +10,10 @@ Sebuah aplikasi web untuk mengelola simpanan atau pinjaman.
 * Javascript
 * Bootstrap 
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
-
 
 ```
 Ku Coding Kau dengan Bismillah
